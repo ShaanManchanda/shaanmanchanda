@@ -33,7 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaanmanchanda&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuteoctober&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaanmanchanda&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
