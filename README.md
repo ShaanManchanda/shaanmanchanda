@@ -1,16 +1,17 @@
-[![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZqNGkwMnVzaDJ0eHg3MG5qb3Btem8xcHEzczN4b21zazJ0M2gxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)]
-<h1 align="center">Hi 👋, I'm Shaan Manchanda</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
-
+<h1 align="center">Hi there! 👋 I'm Shaan</h1>
+<h3 align="center">Welcome to my Profile 🌟</h3>
+<p align="center">
+  <img src="https://i.ibb.co/BsHXtSh/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="My Picture" width="100%"/>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaanmanchanda&label=Profile%20views&color=0e75b6&style=flat" alt="shaanmanchanda" /> </p>
 
 - 🔭 I’m currently working on **my portfolio website**
 
-- 🌱 I’m currently learning **React, Deep Learning**
+- 🌱 I’m currently learning **Genrative AI, Linux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShaanManchanda](https://github.com/ShaanManchanda)
 
-- 💬 Ask me about **Machine Learning and Frontend Development**
+- 💬 Ask me about **Machine Learning and Artificial Intellingence**
 
 - 📫 How to reach me **shaanmanchanda24@gmail.com**
 
